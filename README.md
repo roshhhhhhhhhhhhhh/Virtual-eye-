@@ -1,5 +1,4 @@
 # Virtual-eye
-## virtual-eye
 The VirtualEye yolo based AI model provides an in-depth look into this life-saving system, showcasing its features and functionality. Basically the person detection is using yolo and drowning detection is based on the motion of the person. If the detected one or more persons have no vertical or horizontal motion for nearly 10 seconds then the person is detected to be drowning. This model can be deployed in security camera near the pools to detect drowning in real-time.
 
 ## To run this program you can follow these steps:
